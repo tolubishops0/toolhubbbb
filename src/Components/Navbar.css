@@ -1,0 +1,26 @@
+nav {
+  background-color: blue;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 2.5rem;
+  height: 60px;
+}
+
+nav > div {
+  display: none;
+}
+
+nav > ul {
+  display: flex;
+  gap: 50px;
+}
+
+nav > ul a{
+  color: white;
+}
+
+nav > ul :hover {
+  color: #a5aaad;
+  transition: 0.8s;
+}

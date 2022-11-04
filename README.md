@@ -16,4 +16,6 @@ I hope to enable the project with support for unit testing in the future(very so
 
 React Icons, Routers, Routes, React-vis etc are used. 
 
+The UI is responsive accross all devices!!
+
 More updates to come both on designs an testing and other great stuff!!
